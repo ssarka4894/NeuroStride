@@ -1,4 +1,4 @@
-# Reinforcement Learning of Ankle Foot Orthosis forAssisting Target Reaching Activities Inhibited by Neuromotor Disorders
+# NeuroStride: A Reinforcement Learning Framework using an Ankle Foot Orthosis for Assisting Target Reaching Activities Inhibited by Neuromotor Disorders
 
 ## Step 1: Unzip all Codes
 Please check for the following 5 MATLAB Scripts
