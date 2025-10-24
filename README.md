@@ -1,6 +1,6 @@
-# Reinforcement Learning of Ankle Foot Orthosis forAssisting Target Reaching Activities Inhibited byNeuromotor Disorders
+# Reinforcement Learning of Ankle Foot Orthosis forAssisting Target Reaching Activities Inhibited by Neuromotor Disorders
 
-### Step 1: Unzip all Codes
+## Step 1: Unzip all Codes
 Please check for the following 5 MATLAB Scripts
 
 - rl_init.m
